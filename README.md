@@ -1,1 +1,2 @@
-# Practice-Project-WED
+# lmq.github.io
+Practice Project WED
