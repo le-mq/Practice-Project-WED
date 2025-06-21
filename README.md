@@ -1,2 +1,2 @@
-# lmq.github.io
+# le-mq.github.io
 Practice Project WED
